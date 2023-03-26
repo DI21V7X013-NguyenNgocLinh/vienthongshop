@@ -16,7 +16,7 @@
     <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp"></script>
 
    
-  
+
     
     <title>Mua bán thiết bị công nghệ - VIỄN THÔNG SHOP</title>
 </head> 
