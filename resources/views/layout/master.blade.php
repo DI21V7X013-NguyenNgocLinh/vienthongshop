@@ -19,13 +19,15 @@
 
     
 
+    
+
    
 
  
-    <div class="container">
-        <div class="vertical">
-            @include('vertical')
-        </div>
+    {{-- <div class="slider">
+        <div class=""> --}}
+            @include('content')
+        {{-- </div> --}}
 
         
 
